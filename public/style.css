@@ -1,0 +1,30 @@
+  @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+footer {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 50vh;
+}
+
+main{
+    text-align: center;
+}
+
+body {
+    font-family: 'Tilt Warp', cursive;
+    background-color: purple;
+    color: aliceblue;
+
+}
+
+
+input {
+    border: none;    
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 2px 2px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
